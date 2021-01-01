@@ -5,5 +5,5 @@ List of my public repositories
 ![Gif](https://github.com/DrJamgo/love-boids-gpu/raw/master/doc/demo1.gif)
 
 # [BlobAI](https://github.com/DrJamgo/BlobAI)
-![screenshot](https://github.com/DrJamgo/BlobAI/blob/master/doc/screenshot.png)
+![Gif](https://github.com/DrJamgo/BlobAI/raw/master/doc/ezgif-6-9a7484ff51b1.gif)
 
